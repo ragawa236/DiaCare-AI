@@ -17,5 +17,6 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ## Desain UI/UX
-Stich: https://stitch.withgoogle.com/projects/10074891922597370077
-Figma: https://www.figma.com/design/eAo0pCvOozzJQfS80eP9BW/Untitled?node-id=7-805&t=67mwHH6eHYWBSciW-0
+- Stich: https://stitch.withgoogle.com/projects/10074891922597370077
+
+- Figma: https://www.figma.com/design/eAo0pCvOozzJQfS80eP9BW/Untitled?node-id=7-805&t=67mwHH6eHYWBSciW-0
